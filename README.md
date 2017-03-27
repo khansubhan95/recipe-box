@@ -1,6 +1,6 @@
 # Markdown Editor using React
 
-A web application for storing your recipes. Uses browser's localStorage rather than server to store the recipes. Written in React
+A web application for storing your recipes. Uses browser's localStorage rather than server to store the recipes. Written in React.
 
 ## Getting Started
 
